@@ -13,11 +13,10 @@ python /process_subgraph/pre_MyGCN.py
 python /process_subgraph/dataforMyGCN.py  
 python /process_subgraph//DataforBiGCN_subgraph/ReforBiGCN.py  
 3、Bit-CHetG model  
-#无数据增强
-python Bit-CHetG-master/Process/getBitcoingraph.py
-#二元交叉熵
-python Bit-CHetG-master/model/Bitcoin/BIGCN_Bitcoin.py 100
-#交叉熵+对比损失
-python Bit-CHetG-master/model/Bitcoin/BIGCN_Bitcoin_CL.py 100
-
+#无数据增强  
+python Bit-CHetG-master/Process/getBitcoingraph.py  
+#二元交叉熵  
+python Bit-CHetG-master/model/Bitcoin/BIGCN_Bitcoin.py 100  
+#交叉熵+对比损失  
+python Bit-CHetG-master/model/Bitcoin/BIGCN_Bitcoin_CL.py 100  
 
