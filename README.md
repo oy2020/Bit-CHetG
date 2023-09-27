@@ -1,7 +1,5 @@
 # Bit-CHetG
-Code and dataset for Bit-CHetG
-1、requirement：
-torch==1.4.0 
+Code and dataset for Bit-CHetG  1、requirement：  torch==1.4.0 
 torch_scatter==1.4.0
 torch_sparse==0.4.3
 torch_cluster==1.4.5
