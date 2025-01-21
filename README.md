@@ -23,3 +23,8 @@ python Bit-CHetG-master/model/Bitcoin/BIGCN_Bitcoin.py 100
 #交叉熵+对比损失  
 python Bit-CHetG-master/model/Bitcoin/BIGCN_Bitcoin_CL.py 100  
 
+****
+dataset can be downloaded in baiduyunpan：
+通过百度网盘分享的文件：DataSet.zip
+链接：https://pan.baidu.com/s/1WS4dGg4PNJvbOgXAo6Qe3g?pwd=2qng 
+提取码：2qng 
