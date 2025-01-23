@@ -27,6 +27,7 @@ python Bit-CHetG-master/model/Bitcoin/BIGCN_Bitcoin_CL.py 100
 dataset can be downloaded in baiduyunpan：
 
 BlockSec:
-链接: https://pan.baidu.com/s/1wNktynHDNSou6dKTPzwu4A?pwd=ikya 提取码: ikya 
+链接: https://pan.baidu.com/s/1wNktynHDNSou6dKTPzwu4A?pwd=ikya 提取码: ikya   
+
 Elliptic:
 链接: https://pan.baidu.com/s/1cdNNwMMSliVL2F_a_OqwAQ?pwd=y392 提取码: y392
